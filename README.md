@@ -1,4 +1,4 @@
-# MultiVision Ai
+
 # MultiVision Ai
 **MultiVision Ai** is a multi-modal AI-powered application that combines the capabilities of text-to-image, text-to-video, and image-to-text models to generate creative content and captions based on user inputs. This project leverages cutting-edge machine learning models from **Hugging Face** and utilizes **Streamlit** for an interactive user interface.
 
@@ -48,7 +48,7 @@
 ## Installation
 
 ### 1. Clone the repository:
-git clone https://github.com/rishav1304/MultiVision-Ai.git
+git clone https://github.com/rishav1304/MultiVision-Ai
 cd MultiVision-Ai
 
 
